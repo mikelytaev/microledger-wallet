@@ -12,3 +12,4 @@ version = "1"
 rand = { version = "0.7"}
 rand_core = { version = "0.5"}
 brotli = { version = "3.3.4"}
+automerge = "0.5.7"
